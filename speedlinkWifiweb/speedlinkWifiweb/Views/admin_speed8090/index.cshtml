@@ -1,0 +1,398 @@
+﻿ 
+<!doctype html>
+<html class="no-js " lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <meta name="description" content="Responsive Bootstrap 4 and web Application ui kit.">
+    <title>:: Speedlinkwifi-control :: index</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon"> <!-- Favicon-->
+    <link rel="stylesheet" href="~/assets2/plugins/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/assets2/plugins/morrisjs/morris.css" />
+    <link rel="stylesheet" href="~/assets2/plugins/jvectormap/jquery-jvectormap-2.0.3.min.css" />
+    <!-- Custom Css -->
+    <link rel="stylesheet" href="~/assets2/css/main.css">
+    <link rel="stylesheet" href="~/assets2/css/color_skins.css">
+</head>
+<body class="theme-black">
+    <!-- Page Loader -->
+    <div class="page-loader-wrapper">
+        <div class="loader">
+            <div class="m-t-30"><img src="~/assets2/images/logo.svg" width="48" height="48" alt="Speedlinkwifi-control"></div>
+            <p>Please wait...</p>
+        </div>
+    </div>
+
+    <div class="overlay"></div><!-- Overlay For Sidebars -->
+    <!-- Left Sidebar -->
+    <aside id="minile ftbar" class="minileftbar">
+        <ul class="menu_list">
+            <li>
+                <a href="javascript:void(0);" class="bars"></a>
+                <a class="navbar-brand" href="/admin_speed8090/index"><img src="~/assets2/images/logo.svg" alt="Speedlinkwifi-control"></a>
+            </li>
+            <li>
+                <a href="javascript:void(0);" class="bars"></a>
+                <a class="navbar-brand" href="/home/index"><img src="~/Image/logo8.png" alt="Speedlinkwifi-control"></a>
+            </li>
+
+            <li><a href="javascript:void(0);" class="menu-sm"><i class="zmdi zmdi-swap"></i></a></li>
+            <li class="menuapp-btn"><a href="javascript:void(0);"><i class="zmdi zmdi-apps"></i></a></li>
+            <li><a href="/admin_speed8090/Calendar" title="Events"><i class="zmdi zmdi-calendar"></i></a></li>
+            <li><a href="/ContactUs/index" title="Inbox"><i class="zmdi zmdi-email"></i></a></li>
+            <li><a href="/Teams/index" title="working Team"><i class="zmdi zmdi-account-box-phone"></i></a></li>
+            <li><a href="javascript:void(0);" class="fullscreen" data-provide="fullscreen"><i class="zmdi zmdi-fullscreen"></i></a></li>
+            <li class="power">
+                <a href="javascript:void(0);" class="js-right-sidebar"><i class="zmdi zmdi-settings zmdi-hc-spin"></i></a>
+                <h1></h1>
+                <br />
+                <form class="power" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("index", "admin_speed8090", new { area = "" })">
+                    <button type="submit" class="mega-menu"><i class="zmdi zmdi-power"></i></button>
+                    <br>
+                    <br>
+                </form>
+
+            </li>
+        </ul>
+    </aside>
+
+    <aside class="right_menu">
+        <div class="menu-app">
+            <div class="slim_scroll">
+                <div class="card">
+                    <div class="header">
+                        <h2><strong>App</strong> Menu</h2>
+                    </div>
+                    <div class="body">
+                        <ul class="list-unstyled menu">
+                            <li><a href="/admin_speed8090/Calendar"><i class="zmdi zmdi-calendar-note"></i><span>Calendar</span></a></li>
+                            <li><a href="/Teams/index"><i class="zmdi zmdi-male-female"></i><span>Workng Team</span></a></li>
+                            <li><a href="/ContactUs/index"><i class="zmdi zmdi-email"></i><span>inbox</span></a></li>
+                            <li><a href="/main/index"><i class="zmdi zmdi-home"></i><span>Main </span></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div id="rightsidebar" class="right-sidebar">
+            <ul class="nav nav-tabs">
+                <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#setting">Setting</a></li>
+
+            </ul>
+            <div class="tab-content slim_scroll">
+                <div class="tab-pane slideRight active" id="setting">
+                    <div class="card">
+                        <div class="header">
+                            <h2><strong>Colors</strong> Skins</h2>
+                        </div>
+                        <div class="body">
+                            <ul class="choose-skin list-unstyled m-b-0">
+                                <li data-theme="black" class="active">
+                                    <div class="black"></div>
+                                </li>
+                                <li data-theme="purple">
+                                    <div class="purple"></div>
+                                </li>
+                                <li data-theme="blue">
+                                    <div class="blue"></div>
+                                </li>
+                                <li data-theme="cyan">
+                                    <div class="cyan"></div>
+                                </li>
+                                <li data-theme="green">
+                                    <div class="green"></div>
+                                </li>
+                                <li data-theme="orange">
+                                    <div class="orange"></div>
+                                </li>
+                                <li data-theme="blush">
+                                    <div class="blush"></div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="header">
+                            <h2><strong>Left</strong> Menu</h2>
+                        </div>
+                        <div class="body theme-light-dark">
+                            <button class="t-dark btn btn-primary btn-round btn-block">Dark</button>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div id="leftsidebar" class="sidebar">
+            <div class="menu">
+                <ul class="list">
+                    <li>
+                        <div class="user-info m-b-20">
+                            <div class="image">
+                                <a><img src="~/logos.jpg" alt="User"></a>
+                            </div>
+                            @using Microsoft.AspNetCore.Identity
+                            @inject SignInManager<IdentityUser> SignInManager
+                            @inject UserManager<IdentityUser> UserManager
+                            @if (SignInManager.IsSignedIn(User))
+                            {
+                                <div class="detail">
+                                    <h6>SpeedlinkWifi</h6>
+                                    <p class="m-b-0">@User.Identity.Name</p>
+                                    <a href="https://www.facebook.com/speedlinkwifi.net" title="" class=" waves-effect waves-block"><i class="zmdi zmdi-facebook-box"></i></a>
+                                    <a href="https://instagram.com/speedlink.wifi?igshid=YmMyMTA2M2Y=" title="" class=" waves-effect waves-block"><i class="zmdi zmdi-instagram"></i></a>
+                                   
+                                </div>
+                                }
+                            </div>
+                            
+                    </li>
+
+                    <li class="active open"> <a href="/admin_speed8090/index"><i class="zmdi zmdi-home"></i><span>Home</span></a></li>
+                    <li>
+                        <a href="javascript:void(0);" class="menu-toggle"><i class="zmdi zmdi-apps"></i><span>App</span> <span class="badge badge-success float-right">4</span></a>
+                        <ul class="ml-menu">
+                            <li><a href="/ContactUs/index">Inbox</a></li>
+                            <li><a href="/admin_speed8090/Calendar">Calendar</a></li>
+                            <li><a href="/main/index">Home</a></li>
+                            <li><a href="/Teams/index">Working Team</a></li>
+                        </ul>
+                    </li>
+
+
+
+                </ul>
+            </div>
+        </div>
+    </aside>
+
+    <!-- Main Content -->
+    <section class="content home">
+        <div class="container-fluid">
+            <div class="block-header">
+                <div class="row clearfix">
+                    <div class="col-lg-5 col-md-5 col-sm-12">
+                        <h2>Home</h2>
+                        <ul class="breadcrumb padding-0">
+                            <li class="breadcrumb-item"><a href="/admin_speed8090/index"><i class="zmdi zmdi-home"></i></a></li>
+                            <li class="breadcrumb-item active">index</li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+            <div class="row clearfix">
+                <div class="col-lg-3 col-md-6">
+                    <div class="card text-center">
+                        <div class="body">
+                            <p class="m-b-20"><i class="zmdi zmdi-balance zmdi-hc-3x col-amber"></i></p>
+                            <span>Total Revenue</span>
+                            <h3 class="m-b-10">$<span class="number count-to" data-from="0" data-to="2078" data-speed="2000" data-fresh-interval="700">2078</span></h3>
+                            <small class="text-muted">27% lower growth</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="card text-center">
+                        <div class="body">
+                            <p class="m-b-20"><i class="zmdi zmdi-assignment zmdi-hc-3x col-blue"></i></p>
+                            <span>Total Orders</span>
+                            <h3 class="m-b-10 number count-to" data-from="0" data-to="865" data-speed="2000" data-fresh-interval="700">865</h3>
+                            <small class="text-muted">88% lower growth</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="card text-center">
+                        <div class="body">
+                            <p class="m-b-20"><i class="zmdi zmdi-shopping-basket zmdi-hc-3x"></i></p>
+                            <span>Total Sales</span>
+                            <h3 class="m-b-10 number count-to" data-from="0" data-to="3502" data-speed="2000" data-fresh-interval="700">3502</h3>
+                            <small class="text-muted">38% lower growth</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="card text-center">
+                        <div class="body">
+                            <p class="m-b-20"><i class="zmdi zmdi-account-box zmdi-hc-3x col-green"></i></p>
+                            <span>New Employees</span>
+                            <h3 class="m-b-10 number count-to" data-from="0" data-to="78" data-speed="2000" data-fresh-interval="700">78</h3>
+                            <small class="text-muted">78% lower growth</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row clearfix">
+                <div class="col-lg-4 col-md-6">
+                    <div class="card">
+                        <div class="header">
+                            <h2><strong>Campaign</strong> Performance</h2>
+
+                        </div>
+                        <div class="body m-b-10">
+                            <div class="progress-container l-black">
+                                <span class="progress-badge">Facebook Campaign</span>
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="68" aria-valuemin="0" aria-valuemax="100" style="width: 68%;">
+                                        <span class="progress-value">68%</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="body m-b-10">
+                            <div class="progress-container progress-info">
+                                <span class="progress-badge">Google AdSense</span>
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="86" aria-valuemin="0" aria-valuemax="100" style="width: 91%;">
+                                        <span class="progress-value">91%</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="body m-b-20">
+                            <div class="progress-container progress-warning">
+                                <span class="progress-badge">LinkedIn Campaign</span>
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100" style="width: 35%;">
+                                        <span class="progress-value">35%</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="body align-center">
+                            <div class="row">
+                                <div class="col-4">
+                                    <h4 class="margin-0">60%</h4>
+                                    <p>Monthly</p>
+                                </div>
+                                <div class="col-4">
+                                    <h4 class="margin-0">20%</h4>
+                                    <p>Weekly</p>
+                                </div>
+                                <div class="col-4">
+                                    <h4 class="margin-0">30%</h4>
+                                    <p>Daily</p>
+                                </div>
+                            </div>
+                            <div class="sparkline-pie">6,1,3</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="card">
+                        <div class="header">
+                            <h2><strong>Browser</strong> Usage</h2>
+
+                        </div>
+                        <div class="body">
+                            <div class="doughnut">
+                                <canvas id="canvas" height="200"></canvas>
+                                <canvas id="tooltip-canvas" width="150" height="100"></canvas>
+                            </div>
+                            <div class="table-responsive">
+                                <table class="table table-hover m-b-0 m-t-20">
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                <small>Page Views</small>
+                                                <h5 class="m-b-0">32,211</h5>
+                                            </td>
+                                            <td>
+                                                <div class="sparkline m-t-10" data-type="bar" data-width="97%" data-height="30px" data-bar-Width="3" data-bar-Spacing="7" data-bar-Color="#2b314a">2,3,5,6,9,8,7,8,7</div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <small>Site Visitors</small>
+                                                <h5 class="m-b-0">2,516</h5>
+                                            </td>
+                                            <td>
+                                                <div class="sparkline m-t-10" data-type="bar" data-width="97%" data-height="30px" data-bar-Width="3" data-bar-Spacing="7" data-bar-Color="#2b314a">8,5,3,2,2,3,5,6,4</div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <small>Total Clicks</small>
+                                                <h5 class="m-b-0">4,536</h5>
+                                            </td>
+                                            <td>
+                                                <div class="sparkline m-t-10" data-type="bar" data-width="97%" data-height="30px" data-bar-Width="3" data-bar-Spacing="7" data-bar-Color="#2b314a">6,5,4,6,5,1,8,4,2</div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <small>Total Returns</small>
+                                                <h5 class="m-b-0">516</h5>
+                                            </td>
+                                            <td>
+                                                <div class="sparkline m-t-10" data-type="bar" data-width="97%" data-height="30px" data-bar-Width="3" data-bar-Spacing="7" data-bar-Color="#2b314a">8,2,3,5,6,4,5,7,5</div>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-12">
+                    <div class="card">
+                        <div class="header">
+                            <h2><strong>Site</strong> Traffic</h2>
+
+                        </div>
+                        <div class="body m-b-10">
+                            <h5 class="m-b-0 number count-to" data-from="0" data-to="2651" data-speed="2000" data-fresh-interval="700">2651</h5>
+                            <p class="text-muted">Direct <span class="float-right">48%</span></p>
+                            <div class="progress m-b-20">
+                                <div class="progress-bar l-dark" role="progressbar" aria-valuenow="48" aria-valuemin="0" aria-valuemax="100" style="width: 48%;"></div>
+                            </div>
+
+                            <h5 class="m-b-0 number count-to" data-from="0" data-to="251" data-speed="2000" data-fresh-interval="700">251</h5>
+                            <p class="text-muted">Referrals <span class="float-right">18%</span></p>
+                            <div class="progress m-b-20">
+                                <div class="progress-bar l-amber" role="progressbar" aria-valuenow="18" aria-valuemin="0" aria-valuemax="100" style="width: 18%;"></div>
+                            </div>
+
+                            <h5 class="m-b-0 number count-to" data-from="0" data-to="941" data-speed="2000" data-fresh-interval="700">941</h5>
+                            <p class="text-muted">Search Engines <span class="float-right">67%</span></p>
+                            <div class="progress">
+                                <div class="progress-bar l-green" role="progressbar" aria-valuenow="67" aria-valuemin="0" aria-valuemax="100" style="width: 67%;"></div>
+                            </div>
+                        </div>
+                        <div class="body">
+                            <p class="m-b-10">Page View <small class="float-right">3,665</small></p>
+                            <div id="sparkline14"></div>
+                            <p class="m-b-10 m-t-30">Bounce Rate <small class="float-right">2,925</small></p>
+                            <div id="sparkline15"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </section>
+    <!-- Jquery Core Js -->
+    <script src="~/assets2/bundles/libscripts.bundle.js"></script> <!-- Lib Scripts Plugin Js ( jquery.v3.2.1, Bootstrap4 js) -->
+    <script src="~/assets2/bundles/vendorscripts.bundle.js"></script> <!-- slimscroll, waves Scripts Plugin Js -->
+
+    <script src="~/assets2/bundles/knob.bundle.js"></script> <!-- Jquery Knob-->
+    <script src="~/assets2/bundles/jvectormap.bundle.js"></script> <!-- JVectorMap Plugin Js -->
+    <script src="~/assets2/bundles/morrisscripts.bundle.js"></script> <!-- Morris Plugin Js -->
+    <script src="~/assets2/bundles/sparkline.bundle.js"></script> <!-- sparkline Plugin Js -->
+    <script src="~/assets2/bundles/doughnut.bundle.js"></script>
+
+    <script src="~/assets2/bundles/mainscripts.bundle.js"></script>
+    <script src="~/assets2/js/pages/index.js"></script>
+</body>
+
+ 
+</html>

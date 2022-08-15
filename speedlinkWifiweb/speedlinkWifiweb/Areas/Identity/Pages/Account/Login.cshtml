@@ -1,0 +1,98 @@
+﻿@page
+@model LoginModel
+
+
+
+<!doctype html>
+<html class="no-js " lang="en">
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <meta name="description" content="Responsive Bootstrap 4 and web Application ui kit.">
+
+    <title>:: Alpino :: Sign In</title>
+
+    @*<link rel="icon" href="favicon.ico" type="image/x-icon">*@
+    <link rel="stylesheet" href="~/assets2/plugins/bootstrap/css/bootstrap.min.css">
+
+
+    <link rel="stylesheet" href="~/assets2/css/main.css">
+    <link rel="stylesheet" href="~/assets2/css/color_skins.css">
+</head>
+<body class="theme-black">
+    <div class="authentication">
+        <div class="container">
+            <div class="col-md-12 content-center">
+                <div class="row">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="company_detail">
+
+                            <div class="footer">
+
+                                <hr>
+                                <ul>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-5 col-md-12 offset-lg-1">
+                        <div class="card-plain">
+                            <div>
+                                <form id="account" method="post">
+                                    <div asp-validation-summary="All" class="text-danger"></div>
+                                    <div class="input-group">
+
+                                        <input asp-for="Input.Email" class="form-control" placeholder="User Email" required>
+                                        <span asp-validation-for="Input.Email" class="text-danger"></span>
+                                        <div class="input-group-append">
+                                            <span class="input-group-text"><i class="zmdi zmdi-account-circle"></i></span>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="input-group">
+                                        <input asp-for="Input.Password" class="form-control" placeholder="Password" required>
+                                        <span asp-validation-for="Input.Password" class="text-danger"></span>
+                                        <div class="input-group-append">
+                                            <span class="input-group-text"><i class="zmdi zmdi-lock"></i></span>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="footer">
+                                        <button type="submit" class="btn btn-primary btn-round btn-block">Log in</button>
+                                        <a href="/Identity/Account/Register" class="btn btn-primary btn-simple btn-round btn-block">SIGN UP</a>
+
+                                    </div>
+
+
+                                    <a id="forgot-password" asp-page="./ForgotPassword">Forgot Password?</a>
+
+                                    <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Register as a new user</a>
+                                    <div class="checkbox">
+                                        <input asp-for="Input.RememberMe" id="remember_me" type="checkbox">
+
+                                        <label for="remember_me">
+                                            Remember Me
+                                        </label>
+                                    </div>
+
+                                </form>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/assets2/bundles/libscripts.bundle.js"></script>
+    <script src="~/assets2/bundles/vendorscripts.bundle.js"></script>
+</body>
+
+
+</html>
