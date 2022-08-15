@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using speedlinkWifiweb.Data;
 using speedlinkWifiweb.Models;
 using speedlinkWifiweb.Models.mainpage;
 using System;
@@ -13,9 +14,9 @@ namespace speedlinkWifiweb.Controllers
     public class mainController : Controller
     {
         private readonly IWebHostEnvironment _hostEnvironment;
-        private readonly Dbcount _context;
+        private readonly ApplicationDbContext _context;
 
-        public mainController(Dbcount context, IWebHostEnvironment hostEnvironment)
+        public mainController(ApplicationDbContext context, IWebHostEnvironment hostEnvironment)
         {
 
             _context = context;

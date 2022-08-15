@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using speedlinkWifiweb.Data;
 using speedlinkWifiweb.Models;
 using speedlinkWifiweb.ViewModel;
 using System.Diagnostics;
@@ -12,8 +13,8 @@ namespace speedlinkWifiweb.Controllers
 
 
 
-        Dbcount db;
-        public HomeController(Dbcount countrex)
+        ApplicationDbContext db;
+        public HomeController(ApplicationDbContext countrex)
         {
             db = countrex;
 

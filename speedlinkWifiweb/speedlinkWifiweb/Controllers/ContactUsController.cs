@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using speedlinkWifiweb.Data;
 using speedlinkWifiweb.Models;
 using speedlinkWifiweb.Models.mainpage;
 using System.Linq;
@@ -10,9 +11,9 @@ namespace speedlinkWifiweb.Controllers
 
     public class ContactUsController : Controller
     {
-        private readonly Dbcount _context;
+        private readonly ApplicationDbContext _context;
 
-        public ContactUsController(Dbcount context)
+        public ContactUsController(ApplicationDbContext context)
         {
             _context = context;
         }

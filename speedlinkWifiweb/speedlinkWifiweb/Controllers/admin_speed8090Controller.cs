@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.V3.Pages.Account.Internal;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using speedlinkWifiweb.Data;
 using speedlinkWifiweb.Models;
 using speedlinkWifiweb.Models.mainpage;
 using System;
@@ -17,9 +18,9 @@ namespace speedlinkWifiweb.Controllers
     {
 
 
-        Dbcount db;
+        ApplicationDbContext db;
         private readonly IWebHostEnvironment _hostEnvironment;
-        public admin_speed8090Controller(Dbcount countrex, IWebHostEnvironment hostEnvironment)
+        public admin_speed8090Controller(ApplicationDbContext countrex, IWebHostEnvironment hostEnvironment)
         {
             db = countrex;
             _hostEnvironment = hostEnvironment;

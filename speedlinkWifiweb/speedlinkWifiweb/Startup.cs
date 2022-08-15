@@ -26,10 +26,6 @@ namespace speedlinkWifiweb
                 options.UseSqlServer(
                     Configuration.GetConnectionString("speedlindbweb")));
 
-            services.AddDbContext<Dbcount>(options =>
-                options.UseSqlServer(
-                    Configuration.GetConnectionString("speedlindbweb")));
-
 
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
