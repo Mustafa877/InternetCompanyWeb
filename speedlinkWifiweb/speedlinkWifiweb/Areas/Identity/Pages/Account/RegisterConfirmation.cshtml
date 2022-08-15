@@ -1,0 +1,55 @@
+﻿@page
+@model RegisterConfirmationModel
+@{
+    ViewData["Title"] = "Register confirmation";
+
+<!doctype html>
+<html class="no-js " lang="en">
+
+<!-- Mirrored from www.wrraptheme.com/templates/alpino/main/page-offline.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 15 Mar 2022 22:11:05 GMT -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <meta name="description" content="Responsive Bootstrap 4 and web Application ui kit.">
+
+    <title>:: Alpino :: Page Offline</title>
+    <!-- Favicon-->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="~/assets2/plugins/bootstrap/css/bootstrap.min.css">
+    <!-- Custom Css -->
+    <link rel="stylesheet" href="~/assets2/css/main.css">
+    <link rel="stylesheet" href="~/assets2/css/color_skins.css">
+</head>
+<body class="theme-black">
+    <div class="authentication">
+        <div class="container">
+            <div class="col-md-12 content-center">
+                <div class="row">
+                    <div class="col-lg-6 col-md-12">
+
+                    </div>  
+                            <p>
+                                <div class="col-lg-5 col-md-12 offset-lg-1">
+                                    <div class="card-plain">
+                                        <div class="header">
+                                            <a id="confirm-link" href="@Model.EmailConfirmationUrl">Click here to confirm your account</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </p>
+                         
+
+                    </div>
+            </div>
+        </div>
+    </div>
+    <!-- Jquery Core Js -->
+    <script src="~/assets2/bundles/libscripts.bundle.js"></script>
+    <script src="~/assets2/bundles/vendorscripts.bundle.js"></script> <!-- Lib Scripts Plugin Js -->
+</body>
+
+<!-- Mirrored from www.wrraptheme.com/templates/alpino/main/page-offline.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 15 Mar 2022 22:11:05 GMT -->
+</html>
+    }
