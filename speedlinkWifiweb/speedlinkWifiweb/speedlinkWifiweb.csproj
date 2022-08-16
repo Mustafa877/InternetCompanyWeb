@@ -30,8 +30,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Data\Interfaces\" />
-    <Folder Include="Data\Repositories\" />
+    <Folder Include="Migrations\" />
     <Folder Include="wwwroot\Image\main\logo\" />
     <Folder Include="wwwroot\Image\main\mainImage\" />
     <Folder Include="wwwroot\Image\main\About\" />

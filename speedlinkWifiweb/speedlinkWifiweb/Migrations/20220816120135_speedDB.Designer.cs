@@ -10,8 +10,8 @@ using speedlinkWifiweb.Data;
 namespace speedlinkWifiweb.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220815230710_onedb")]
-    partial class onedb
+    [Migration("20220816120135_speedDB")]
+    partial class speedDB
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

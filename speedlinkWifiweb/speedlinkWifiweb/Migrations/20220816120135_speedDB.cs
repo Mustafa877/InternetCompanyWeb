@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace speedlinkWifiweb.Migrations
 {
-    public partial class onedb : Migration
+    public partial class speedDB : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
