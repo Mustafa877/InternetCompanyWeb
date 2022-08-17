@@ -25,64 +25,6 @@ C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Rel
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\fonts\nucleo-outline-3.html
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\fonts\nucleo-outline-4.html
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\fonts\nucleo-outline.html
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\blog\05-img.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\blog\06-img.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\blog\07-img.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\blog\08-img.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\blog\09-img.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\blog\10-img.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\blog\11-img.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\blog\12-img.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\blog\13-img.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\blog\blog-page-1.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\blog\blog-page-2.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\blog\blog-page-3.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\blog\blog-page-4.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\image-gallery\1.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\image-gallery\10.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\image-gallery\11.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\image-gallery\12.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\image-gallery\13.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\image-gallery\14.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\image-gallery\15.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\image-gallery\2.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\image-gallery\3.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\image-gallery\4.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\image-gallery\5.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\image-gallery\6.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\image-gallery\7.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\image-gallery\8.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\image-gallery\9.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\image1.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\image2.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\image3.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\image4.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\lg\avatar1.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\logo.svg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\model1.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\model2.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\model3.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\profile_av.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\sm\avatar1.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\sm\avatar2.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\sm\avatar3.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\sm\avatar4.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\sm\avatar5.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\sm\avatar6.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\weather\cloudy.svg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\weather\rain.svg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\weather\sky.svg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\weather\summer.svg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\xs\avatar1.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\xs\avatar10.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\xs\avatar2.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\xs\avatar3.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\xs\avatar4.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\xs\avatar5.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\xs\avatar6.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\xs\avatar7.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\xs\avatar8.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\images\xs\avatar9.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\js\pages\blog\blog.js
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\js\pages\calendar\calendar.js
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets2\js\pages\charts\chart-widgets.js
@@ -226,22 +168,25 @@ C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Rel
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\footer-bg.png
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\hero-bg.png
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\hero-img.png
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\hero-img.svg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\logo.png
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\portfolio-1.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\portfolio-2.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\portfolio-3.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\portfolio-4.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\portfolio-5.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\portfolio-6.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\portfolio-7.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\portfolio-8.jpg
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\portfolio-9.jpg
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\GB crads\project_20220813_1745440-٠١.png
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\GB crads\project_20220813_1748400-٠١.png
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\GB crads\project_20220813_1751235-٠١.png
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\GB crads\project_20220813_1752328-٠١.png
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\open cards\project_20220813_1755172-٠١.png
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\open cards\project_20220813_1756089-٠١.png
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\open cards\project_20220813_1756518-٠١.png
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\open cards\project_20220813_1759002-٠١.png
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\open cards\project_20220813_1759466-٠١.png
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\open cards\project_20220813_1800284-٠١.png
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\other\FB_IMG_1660403421296.jpg
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\other\FB_IMG_1660403454157.jpg
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\other\FB_IMG_1660403459776.jpg
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\portfolio\other\FB_IMG_1660403490286.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\pricing-business.png
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\pricing-free.png
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\pricing-starter.png
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\pricing-ultimate.png
-C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\team-shape.svg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\team\team-1.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\team\team-2.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\img\team\team-3.jpg
@@ -324,6 +269,7 @@ C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Rel
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\vendor\remixicon\remixicon.woff2
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\vendor\swiper\swiper-bundle.min.css
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\vendor\swiper\swiper-bundle.min.js
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\favicon.png
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\blog\00000000-0000-0000-0000-000000000000.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\blog\03301eea-f354-419b-b25e-c2e75ba2c1fe.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\blog\0ca1b270-07a1-4b9d-8ec8-3ff828da362a.jpg
@@ -383,6 +329,7 @@ C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Rel
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\logo8.png
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\About\29089fd1-8118-4c68-8227-f3f359bc3d4b.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\About\3db7a66a-e74c-4c02-ae2b-c1fb0e9d0702.jpg
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\About\4f79eb85-3381-4080-9b1a-62a558e138a8.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\About\5cc310a4-7431-47cf-ace5-59b8dea9648f.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\About\a1723d64-9e0c-476a-a306-ad629eee802c.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\About\a38be604-b2bd-4fd3-b434-0086101e8e92.jpg
@@ -393,6 +340,7 @@ C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Rel
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\About\d7d35361-6583-42df-9e98-db2a0afa7cce.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\About\dd8c0c50-f2e7-47f7-ba4e-ac37ace5b616.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\About\ee2afff4-a1c4-4cad-a4bd-9b9ba4a73c94.jpg
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\logo\0ffc5284-f587-48c9-bd8f-a845cd974c03.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\logo\182a3ebf-c9c5-4905-8003-dea61cd40e59.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\logo\182fac35-d0d7-4ff3-b292-8b03c3220d55.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\logo\1b1e63af-9b96-44a4-bc3f-c11e367b68cc.jpg
@@ -477,6 +425,7 @@ C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Rel
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\mainImage\55bdf384-0a98-4344-aa6a-cf0f4fa5a600.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\mainImage\5c025bba-4a74-4129-a607-292e6acd7d77.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\mainImage\5c1e2fbb-f392-4327-95d8-dbc0ffc462bb.jpg
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\mainImage\61e084af-95cd-4622-8ab4-ee10ce090b09.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\mainImage\652715ee-c826-496b-9e89-2bdd0fbd69d3.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\mainImage\68c2b771-a795-4a43-9b45-b38fc28c6c72.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\mainImage\76fb2459-fd1f-4d22-aa69-f82ffedf4e26.jpg
@@ -513,6 +462,7 @@ C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Rel
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\09dc52df-7b9b-4ea2-ba31-cd164e4d6ac3_portfolio-4.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\0b9724be-94b9-4617-98c5-8f05a5bbb31a_FB_IMG_1660403421296.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\0c6b978b-8150-46c4-8b5b-5e297abe662c_portfolio-2.jpg
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\0e0c0bc1-e127-460c-8bf1-3f315a4bccc1_project_20220813_1755172-٠١.png
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\0e668ba2-fc82-4628-ae80-b8918de6c3e1_project_20220813_1756089-٠١.png
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\10fba87c-e17c-4eaa-80bb-27a5cfae5f65_project_20220813_1759466-٠١.png
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\14e824a5-6f52-48d8-b166-3d8245f34545_portfolio-1.jpg
@@ -524,10 +474,15 @@ C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Rel
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\20d92bf0-7278-49d0-85a9-7cc1af117f65_portfolio-7.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\2ef96e7c-90bb-41db-b88c-59e1df26a3af_portfolio-3.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\30907433-0b60-4cf1-96f6-372c1a7ab6c1_portfolio-9.jpg
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\30e0305a-836e-4388-895a-5a86d95b47b0_project_20220813_1751235-٠١.png
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\348f5e74-c77c-4fba-9c6b-7d2e35e404a2_project_20220813_1800284-٠١.png
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\35b2bbdb-4b04-4fde-aef5-1537b6fd0ce1_portfolio-1.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\366755f1-adbc-4a65-a3d9-f50b891be6ca_project_20220813_1759002-٠١.png
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\3bc184a5-b7d1-47b5-95fe-1e8b32cadb81_project_20220813_1748400-٠١.png
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\3db07f7e-bb7e-4d51-a53a-29a037e1d779_project_20220813_1800284-٠١.png
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\3f2dc663-7521-4910-afac-2a395602ae64_FB_IMG_1660403490286.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\3f6a99d8-be2d-4a9f-b5e0-c58bb7e45934_portfolio-8.jpg
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\4147017a-2f46-4a58-bafd-2bbb408f9fc1_project_20220813_1752328-٠١.png
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\42d4bb68-befd-4d66-a72b-3402a887f7a2_portfolio-6.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\44b66870-c0e8-47fc-9fd0-3eba241d7d9c_FB_IMG_1660403459776.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\4691ec18-c2ce-4a32-815d-92156f57c15c_portfolio-3.jpg
@@ -544,13 +499,19 @@ C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Rel
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\677cb6ae-e15c-4256-a46e-caa2d40238cb_portfolio-6.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\7388c4c8-267d-4cf1-be1d-27cf443faef1_portfolio-8.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\76e2d0be-8a46-47d0-b5a0-d1bb1422f910_project_20220813_1751235-٠١.png
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\7ce45c85-d661-4f8a-bede-e735c9bfa430_project_20220813_1756089-٠١.png
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\80d95bff-7816-458e-ba7b-9e6bf51ff3c8_project_20220813_1755172-٠١.png
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\817d5bd7-0f39-42f0-806b-0691c7d611b5_portfolio-4.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\84902e84-8a89-48fb-91d2-008ea4f86655_project_20220813_1751235-٠١.png
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\87dcc6a9-608f-4d7e-8750-3b69063f6a33_portfolio-3.jpg
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\87eec1e3-fdd3-4f75-9ba9-e37bb963cfd0_project_20220813_1745440-٠١.png
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\88770012-148b-4f1c-9856-fe723a42fbd3_portfolio-2.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\8c70de8a-b3f4-4d2f-9be4-a3969b3edb90_project_20220813_1752328-٠١.png
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\9099cec9-c027-400e-aa58-b73cb6789954_project_20220813_1759002-٠١.png
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\a0e11ac4-ad31-4a3d-94c1-a8653df25118_project_20220813_1759466-٠١.png
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\a7759be4-dc33-46ba-a424-fed19cc1cf58_project_20220813_1756518-٠١.png
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\a9279b5b-7bfe-45d4-a4d2-a92f3d077152_portfolio-6.jpg
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\ac75ace0-af65-4687-813d-e4585625ab1b_FB_IMG_1660403454157.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\aecea68d-0fdf-4550-9ae1-f8f3364bfcdf_project_20220813_1748400-٠١.png
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\b6ba70bb-9bf3-4eec-91df-89a2432639b8_FB_IMG_1660403490286.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\PORTFOLIO\ce3d7e95-11c4-425a-892f-a7d0fcbd5d88_portfolio-4.jpg
@@ -570,13 +531,17 @@ C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Rel
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\1fd7bb8d-76fa-4ad3-a3fd-3acb02c6348e.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\4f141aaa-1c97-40a5-9b59-9594f6bc88f5.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\557c9303-bc67-4310-9fce-df3f56744115.jpg
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\7462213c-6c1d-4db8-85e0-b91e1261e98a.jpg
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\7496371d-559f-4e5b-8456-851195f10f22.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\7754fa32-5c46-4e77-a1ad-b7cde07347d2.jpg
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\7b40d017-f63b-479c-a6af-1e0d27ebc3a3.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\7d5c96b2-5183-44b0-9ea7-87af9eece282.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\8068de1a-e821-4f85-8446-3e3e136f5897.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\8619cfd9-03d8-43a1-903d-a615fa39a624.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\8770cc5c-52fa-43e8-9a8e-552f8a1b6346.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\886034f9-167d-4728-926b-5130e3edb026.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\8a49b560-0ad3-4ea2-9a17-d866dd135d7e.jpg
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\8daf9d2d-24e4-4fe9-863e-2a6bc1d48f3a.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\939a417a-4e80-476f-96d7-49cafabc07cd.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\9b6ebbe8-dd25-4cdf-b773-6a9305111765.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\9d5e2602-e0f8-41c6-a802-cffa5ee52ace.jpg
@@ -590,6 +555,8 @@ C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Rel
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\cba040c9-b2eb-4645-b96c-3280630405e7.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\ea5712ce-1f02-4e99-ba53-36ea1c8f3fd7.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\ee62ab1e-41ef-40e0-87be-4d8fa270662b.jpg
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\main\Team\f2cf2189-37b8-4abc-9011-3af9335d9a2e.jpg
+C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\logo.ico
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\logo.png
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\logos.jpg
 C:\Users\ACER\Documents\my web project\speedlinkWifiweb\speedlinkWifiweb\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
